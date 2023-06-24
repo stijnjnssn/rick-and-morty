@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="789a5710-8dae-429a-a113-0d22c16d4e9c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/coding tests.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintiens_Quinten/Assignment_Basic_Programming/Assignment_Basic_Programming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mintiens_Quinten/Mintiens_Quinten.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crossword/Crossword new/Crossword new.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crossword/Crossword new/CrosswordPuzzle-master/CrosswordPuzzle-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crossword/Crossword new/CrosswordPuzzle-master/out/production/CrosswordPuzzle-master/crossword/crossword.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crossword/Crossword new/CrosswordPuzzle-master/src/crossword/crossword.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crossword/crossword.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finaaaal/holyhack/holyhack/.idea/holyhack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskintro/.idea/flaskintro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../holyhack/holyhack/.idea/holyhack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../holyhack1/.idea/holyhack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../holyhack_final/holyhack/.idea/holyhack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../opencv/.idea/opencv.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scan/.idea/scan.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../holyhack/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../holyhack/.idea/holyhack.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../holyhack/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../holyhack/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../holyhack/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../holyhack/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../holyhack/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../holyhack/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../holyhack/static/change.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../holyhack/static/geel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../holyhack/static/gele-en-rode-kaart.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../holyhack/static/rbf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../holyhack/static/rbf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../holyhack/static/rood.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../holyhack/static/soccerfield.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../holyhack/static/voetbal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../holyhack/templates/goal_playerA.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../holyhack/templates/goal_playerB.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../holyhack/templates/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../holyhack/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../holyhack/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../holyhack/templates/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../holyhack/templates/which_game.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../holyhack/time.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../holyhack/website_delege.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2ReWzOKX2tEiCMGQn6VHOd6Qo4b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="iCare" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\stijn\anaconda3\envs\iCare\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="iCare" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="789a5710-8dae-429a-a113-0d22c16d4e9c" name="Default Changelist" comment="" />
+      <created>1687611293779</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687611293779</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
