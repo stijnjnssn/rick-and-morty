@@ -16,9 +16,14 @@ activate_env:
 deactivate_env:
 	conda deactivate
 
-# Run the main.py file
+
+# Build the Docker container
+build:
+    docker build -t rick-and-morty-image
+
+# Run the Docker container
 run:
-	python main.py
+    docker run -it rick-and-morty-image
 
 # Clean up the environment
 clean:
