@@ -2,7 +2,7 @@
 
 Welcome to the Rick and Morty repository! This project provides a Docker container that runs the `main.py` script using the dependencies specified in `requirements.txt`.
 
-## extra info:
+## Extra info:
 main.py is the first exercise
 
 main_second_exercise.py is the second exercise which makes use of methods from other_files.py
