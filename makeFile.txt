@@ -1,0 +1,28 @@
+# Makefile
+
+# Variables
+ENV_NAME := my_env
+REQ_FILE := requirements.txt
+
+# Create the Conda environment
+create_env:
+	conda create --name $(ENV_NAME) --file $(REQ_FILE)
+
+# Activate the Conda environment
+activate_env:
+	conda activate $(ENV_NAME)
+
+# Deactivate the Conda environment
+deactivate_env:
+	conda deactivate
+
+# Run the main.py file
+run:
+	python main.py
+
+# Clean up the environment
+clean:
+	conda env remove --name $(ENV_NAME)
+
+# Default target
+.DEFAULT_GOAL := run
